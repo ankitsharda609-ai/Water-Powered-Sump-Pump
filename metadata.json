@@ -1,0 +1,8 @@
+
+{
+  "name": "AquaShield Fort Wayne - Water Powered Sump Pumps",
+  "description": "A premium emergency backup sump pump service in Fort Wayne, IN. Specialized in city water siphon systems that protect your home during power outages without batteries or electricity.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
